@@ -1,0 +1,4 @@
+.chromic*
+.local_timestamp
+.chromic.db
+.sync_timestamp
